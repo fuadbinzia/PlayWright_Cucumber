@@ -1,1 +1,1 @@
-PlayWright with cucumber in TypeScript
+PlayWright with cucumber
